@@ -129,14 +129,5 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 /*----------------------------- Event Listeners -----------------------------*/
-// squareEls.forEach(square => {
-//     square.addEventListener('click,' handleClick);
-// });
-// function handleClick(event) {
-//     const square = event.target; //get clicked square
-//     const squareIdx = square.id; 
-//     if (board[squareIdx] !== '' || winner) { //if square is alr selected or if there is a winner
-//         return;
-//     }
 
 
